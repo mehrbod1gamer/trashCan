@@ -2,7 +2,7 @@
 
 namespace mehrbod1gamer\trashCan;
 
-use muqsit\invmenu\InvMenuHandler;
+use mehrbod1gamer\trashCan\Lib\invmenu\InvMenuHandler;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\entity\Entity;
