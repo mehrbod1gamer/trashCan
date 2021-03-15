@@ -2,7 +2,7 @@
 
 namespace mehrbod1gamer\trashCan;
 
-use muqsit\invmenu\InvMenu;
+use mehrbod1gamer\trashCan\Lib\invmenu\InvMenu;
 use pocketmine\entity\Human;
 use pocketmine\event\entity\EntityDamageByEntityEvent;
 use pocketmine\event\entity\EntityDamageEvent;
