@@ -1,0 +1,9 @@
+name: trashCan
+author: mehrbod1gamer
+main: mehrbod1gamer\trashCan\main
+version: 1.0.0
+api: 3.0.0
+
+commands:
+  trashcan:
+    description: "get trashcan spawn Item"
